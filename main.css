@@ -1,0 +1,14 @@
+html {
+    font-family: 'Ms Madi', cursive;
+    font-size: 24px;
+}
+.header,
+.imgs {
+    text-align: center  ;
+    margin-left: 1.5em;
+}
+.img {
+    float: left;
+    width: 32%;
+    margin:4px ;
+}
